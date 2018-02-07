@@ -1,0 +1,15 @@
+<ion-view view-title="选择日历" hide-back-button="true" cache-view="false" ng-controller="SelectTimeCtrl"
+          can-swipe-back="false">
+    <ion-nav-buttons side="left">
+        <button class="button back-button buttons  button-clear header-item" on-touch="goBackPage();">
+            <i class="icon ion-ios-arrow-left"></i>返回
+        </button>
+    </ion-nav-buttons>
+    <ion-content>
+        <div style="text-decoration: none; border-top: 1px solid #eee;" on-tap="openDatePicker()">
+            <label class="item no-border" style="padding-left: 20px; font-size: 1.05rem;">
+                选择日历 <span style="color:#f75a0e" ng-bind="validedTime | date:'yyyy-MM-dd'"></span>
+            </label>
+        </div>
+    </ion-content>
+</ion-view>
