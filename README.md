@@ -3,3 +3,5 @@ ionic自带的日历插件ionic-datepicker。项目中用到了两种插件，�
 
 ![选择日期的日历](/calendar/images/selectTime.png)
 ![签到显示的日历](/calendar/images/signUp.png)
+
+[博客地址](http://blog.csdn.net/spicyboiledfish/article/details/78801095)
