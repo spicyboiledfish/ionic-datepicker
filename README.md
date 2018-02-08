@@ -5,4 +5,4 @@ ionic自带的日历插件ionic-datepicker。项目中用到了两种插件，�
 ![签到显示的日历](/calendar/images/signUp.png)
 
 [博客地址](http://blog.csdn.net/spicyboiledfish/article/details/78801095)
-https://github.com/spicyboiledfish/ionic-datepicker
+http://blog.csdn.net/spicyboiledfish/article/details/78801095
