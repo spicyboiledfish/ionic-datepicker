@@ -66,6 +66,15 @@ button.button.ng-binding.signUpBG{
 .ionic_datepicker_popup .popup-body .normalBG{
   background: #fd722f;
 }
+@media screen and (max-width: 330px) {
+  .ionic_datepicker_popup.whiteText .popup{
+    width:17rem !important;
+  }
+}
+
+/*.popup-container.ionic_datepicker_popup.whiteText.popup-showing.active .popup{
+  width:17rem !important;
+}*/
 
 .ionic_datepicker_popup .popup-head .popup-title {
   color: #ffffff;
